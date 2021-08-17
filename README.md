@@ -2,8 +2,8 @@
 
 <p>- 🔭 I’m currently university student.</p>
 <p>- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS and React.</p>
+<p>- 📫 You can contact via email: <a href="mailto:victoralvesrdias@gmail.com">on here</a></p>
 <p>- 📫 You can contact via instagram: <a href="https://www.instagram.com/viktor.alvess/">@viktor.alvess</a></p>
-<p>- 📫  You can contact via email: <a href="mailto:victoralvesrdias@gmail.com">on here</a></p>
 <p>- 😄 Pronouns: he / his</p>
 
 <p align="center">
